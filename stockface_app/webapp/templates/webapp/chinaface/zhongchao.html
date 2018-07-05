@@ -1,0 +1,30 @@
+{% load staticfiles %}
+
+<html>
+<head>
+<style type="text/css">
+	table tr td {padding: 10px 0px;}
+	table tr td.score {text-align: center;}
+</style>
+</head>
+<body>
+	<div style="font-size:60px;">{{info}}
+	<table style="font-size:60px;">
+	{% for item in zhongchao_list %}
+	<tr>
+	<td style="width: 5%;">{{item.resource_id}}</td> 
+	<td colspan="4"><a href="/webapp/zhongchao_score?resource_id={{item.resource_id}}">{{item.game_time}}</a></td>
+	</tr>
+
+	<tr>
+	<td></td>
+	<td style="width: 15%;">{{item.name_away}}</td>
+	<td style="width: 15%;">{{item.name_home}}</td> 
+	<td class="score">{{item.score_away}}</td>
+	<td class="score">{{item.score_home}}</td>
+	</tr>
+	{% endfor %}
+	</table>
+	</div>
+</body>
+</html>

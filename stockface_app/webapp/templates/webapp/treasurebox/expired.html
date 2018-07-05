@@ -1,0 +1,61 @@
+{% load i18n %}
+{% load staticfiles %}
+
+<!DOCTYPE HTML><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<title>{% trans "pay watchface" %}</title>
+
+<link href="{% static 'webapp/css/style.css' %}" rel="stylesheet" type="text/css">
+<link href="{% static 'webapp/css/framework.css' %}" rel="stylesheet" type="text/css">
+<link href="{% static 'webapp/css/owl.theme.css' %}" rel="stylesheet" type="text/css">
+<link href="{% static 'webapp/css/swipebox.css' %}"	rel="stylesheet" type="text/css">
+<link href="{% static 'webapp/css/font-awesome.css' %}" rel="stylesheet" type="text/css">
+<link href="{% static 'webapp/css/animate.css' %}" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="{% static 'webapp/js/jquery.js' %}"></script>
+<script type="text/javascript" src="{% static 'webapp/js/jqueryui.js' %}"></script>
+<script type="text/javascript" src="{% static 'webapp/js/framework.plugins.js' %}"></script>
+<script type="text/javascript" src="{% static 'webapp/js/custom.js' %}"></script>
+
+</head>
+<body> 
+
+<div id="preloader">
+	<div id="status">
+    	<p class="center-text">
+			{% trans "Loading" %}...
+        </p>
+    </div>
+</div>
+
+<div class="all-elements pay-page">
+    <div class="bg"><img src="{% static 'webapp/images/pictures/treasurebox/bg.png' %}"/></div>
+    <div class="snap-content">         
+        <img class="logo" style="width: 80%;" src="{% static 'webapp/images/pictures/treasurebox/logo_en.png' %}"/>
+
+    <p class="text text1">
+    After 3 days trial, if you like this beautiful and smart Treasure Box WatchFace, please click the follow Paypal link and pay only <b>$2</b>, you can own her and her update versions forever!
+    </p>
+
+    <img class="img" src="{% static 'webapp/images/pictures/treasurebox/img_en.png' %}"/>
+
+    <div class="content" style="margin-top:5rem;"> 
+    <p class="text">
+        <a href="/webapp/paypal_treasurebox_create?sn={{sn}}"><img src="{% static 'webapp/images/btn_paywith_primary_s.png' %}"/></a>    
+    </p>
+    <p class="text text1">
+    If you meet problem or have any other questions, you can email to us: <a href="mailto:pebblefan@163.com">pebblefan@163.com</a>
+, and tell us your watch face number <span>{{sn}}</span></p>
+    </div>
+
+
+    <div class="content">          
+    </div> 
+</div>
+
+</body>
+

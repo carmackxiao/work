@@ -1,0 +1,422 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-09 18:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: webapp/templates/webapp/circle/expired.html:10
+#: webapp/templates/webapp/circle/paypal_success.html:10
+#: webapp/templates/webapp/treasurebox/expired.html:10
+msgid "pay watchface"
+msgstr "卵石坊付费页面"
+
+#: webapp/templates/webapp/circle/expired.html:30
+#: webapp/templates/webapp/circle/paypal_success.html:30
+#: webapp/templates/webapp/treasurebox/expired.html:30
+msgid "Loading"
+msgstr "加载中"
+
+#: webapp/templates/webapp/circle/setting.html:33
+msgid "health_alert_text1"
+msgstr "请选择两个健康值显示"
+
+#: webapp/templates/webapp/circle/setting.html:34
+msgid "health_alert_text2"
+msgstr "只能任选两个健康值显示"
+
+#: webapp/templates/webapp/circle/setting.html:42
+#: webapp/templates/webapp/treasurebox/setting.html:23
+msgid "Common Settings"
+msgstr "一般设置"
+
+#: webapp/templates/webapp/circle/setting.html:42
+#: webapp/templates/webapp/treasurebox/setting.html:23
+msgid "Version"
+msgstr "版本"
+
+#: webapp/templates/webapp/circle/setting.html:45
+#: webapp/templates/webapp/treasurebox/setting.html:27
+msgid "Language"
+msgstr "语言"
+
+#: webapp/templates/webapp/circle/setting.html:58
+#: webapp/templates/webapp/treasurebox/setting.html:39
+msgid "Weather Provider"
+msgstr "天气提供方"
+
+#: webapp/templates/webapp/circle/setting.html:60
+#: webapp/templates/webapp/treasurebox/setting.html:41
+msgid "Yahoo! Weather"
+msgstr "雅虎!天气"
+
+#: webapp/templates/webapp/circle/setting.html:61
+#: webapp/templates/webapp/treasurebox/setting.html:42
+msgid "OpenWeatherMap"
+msgstr "OpenWeatherMap"
+
+#: webapp/templates/webapp/circle/setting.html:62
+msgid "China Weather"
+msgstr "中国中央气象台"
+
+#: webapp/templates/webapp/circle/setting.html:67
+#: webapp/templates/webapp/treasurebox/setting.html:47
+msgid "Temperature Unit"
+msgstr "温度单位"
+
+#: webapp/templates/webapp/circle/setting.html:69
+#: webapp/templates/webapp/treasurebox/setting.html:49
+msgid "Fahrenheit"
+msgstr "华氏度"
+
+#: webapp/templates/webapp/circle/setting.html:70
+#: webapp/templates/webapp/treasurebox/setting.html:50
+msgid "Celsius"
+msgstr "摄氏度"
+
+#: webapp/templates/webapp/circle/setting.html:77
+#: webapp/templates/webapp/treasurebox/setting.html:56
+msgid "station en notice tips"
+msgstr "不想GPS自动定位,请输入你的英文城市名(比如:Newyork),否则保留空白"
+
+#: webapp/templates/webapp/circle/setting.html:78
+msgid "station cn notice tips"
+msgstr "不想GPS自动定位,请输入你的中文城市名(比如:成都),否则保留空白"
+
+#: webapp/templates/webapp/circle/setting.html:81
+#: webapp/templates/webapp/treasurebox/setting.html:60
+msgid "input city name"
+msgstr "输入你的城市名"
+
+#: webapp/templates/webapp/circle/setting.html:97
+#: webapp/templates/webapp/treasurebox/setting.html:77
+#: webapp/templates/webapp/treasurebox/setting.html:89
+msgid "Color Style"
+msgstr "颜色样式"
+
+#: webapp/templates/webapp/circle/setting.html:102
+msgid "Background"
+msgstr "背景"
+
+#: webapp/templates/webapp/circle/setting.html:107
+msgid "Hour Background"
+msgstr "小时球"
+
+#: webapp/templates/webapp/circle/setting.html:112
+msgid "Hour Text"
+msgstr "小时文字"
+
+#: webapp/templates/webapp/circle/setting.html:117
+msgid "Minute Background"
+msgstr "分钟球"
+
+#: webapp/templates/webapp/circle/setting.html:122
+msgid "Minute Text"
+msgstr "分钟文字"
+
+#: webapp/templates/webapp/circle/setting.html:127
+msgid "Seconds Background"
+msgstr "秒球"
+
+#: webapp/templates/webapp/circle/setting.html:132
+msgid "Circle"
+msgstr "圆圈"
+
+#: webapp/templates/webapp/circle/setting.html:137
+msgid "Other Text"
+msgstr "其他文字"
+
+#: webapp/templates/webapp/circle/setting.html:142
+msgid "Battery"
+msgstr "电量"
+
+#: webapp/templates/webapp/circle/setting.html:149
+#: webapp/templates/webapp/treasurebox/setting.html:94
+msgid "BT Disconnect Vibration"
+msgstr "蓝牙通断震动提醒"
+
+#: webapp/templates/webapp/circle/setting.html:154
+#: webapp/templates/webapp/treasurebox/setting.html:99
+msgid "Show Weather on Shake"
+msgstr "晃动出未来天气"
+
+#: webapp/templates/webapp/circle/setting.html:159
+#: webapp/templates/webapp/treasurebox/setting.html:104
+msgid "Shake Sensitivity"
+msgstr "晃动灵敏度"
+
+#: webapp/templates/webapp/circle/setting.html:161
+#: webapp/templates/webapp/treasurebox/setting.html:106
+msgid "High"
+msgstr "高"
+
+#: webapp/templates/webapp/circle/setting.html:162
+#: webapp/templates/webapp/treasurebox/setting.html:107
+msgid "Medium"
+msgstr "中"
+
+#: webapp/templates/webapp/circle/setting.html:163
+#: webapp/templates/webapp/treasurebox/setting.html:108
+msgid "Low"
+msgstr "低"
+
+#: webapp/templates/webapp/circle/setting.html:164
+#: webapp/templates/webapp/treasurebox/setting.html:109
+msgid "Very Low"
+msgstr "很低"
+
+#: webapp/templates/webapp/circle/setting.html:169
+#: webapp/templates/webapp/treasurebox/setting.html:114
+msgid "24 Hours"
+msgstr "24小时制"
+
+#: webapp/templates/webapp/circle/setting.html:174
+#: webapp/templates/webapp/treasurebox/setting.html:119
+msgid "Timing Vibrate"
+msgstr "定时提醒"
+
+#: webapp/templates/webapp/circle/setting.html:176
+#: webapp/templates/webapp/treasurebox/setting.html:121
+msgid "No Vibrate"
+msgstr "不提醒"
+
+#: webapp/templates/webapp/circle/setting.html:177
+#: webapp/templates/webapp/treasurebox/setting.html:122
+msgid "30 Minutes"
+msgstr "每30分钟"
+
+#: webapp/templates/webapp/circle/setting.html:178
+#: webapp/templates/webapp/treasurebox/setting.html:123
+msgid "40 Minutes"
+msgstr "每40分钟"
+
+#: webapp/templates/webapp/circle/setting.html:179
+#: webapp/templates/webapp/treasurebox/setting.html:124
+msgid "45 Minutes"
+msgstr "每45分钟"
+
+#: webapp/templates/webapp/circle/setting.html:180
+#: webapp/templates/webapp/treasurebox/setting.html:125
+msgid "1 Hour"
+msgstr "每小时"
+
+#: webapp/templates/webapp/circle/setting.html:184
+#: webapp/templates/webapp/treasurebox/setting.html:129
+msgid "No vibrate time"
+msgstr "不提醒"
+
+#: webapp/templates/webapp/circle/setting.html:188
+#: webapp/templates/webapp/treasurebox/setting.html:133
+msgid "Start time"
+msgstr "不提醒开始时间"
+
+#: webapp/templates/webapp/circle/setting.html:191
+#: webapp/templates/webapp/circle/setting.html:199
+#: webapp/templates/webapp/treasurebox/setting.html:136
+#: webapp/templates/webapp/treasurebox/setting.html:144
+msgid "o'clock"
+msgstr "点"
+
+#: webapp/templates/webapp/circle/setting.html:196
+#: webapp/templates/webapp/treasurebox/setting.html:141
+msgid "End time"
+msgstr "不提醒结束时间"
+
+#: webapp/templates/webapp/circle/setting.html:206
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: webapp/templates/webapp/circle/setting.html:248
+msgid "Display Temperature"
+msgstr "显示温度"
+
+#: webapp/templates/webapp/circle/setting.html:253
+#: webapp/templates/webapp/treasurebox/setting.html:193
+msgid "Display Today Weather"
+msgstr "显示今日天气"
+
+#: webapp/templates/webapp/circle/setting.html:258
+msgid "Display Air Quality"
+msgstr "显示空气质量"
+
+#: webapp/templates/webapp/circle/setting.html:263
+msgid "Display Day"
+msgstr "显示日期"
+
+#: webapp/templates/webapp/circle/setting.html:268
+msgid "Display Bluetooth"
+msgstr "显示蓝牙"
+
+#: webapp/templates/webapp/circle/setting.html:273
+msgid "Bluetooth Icon"
+msgstr "蓝牙图标"
+
+#: webapp/templates/webapp/circle/setting.html:275
+msgid "Constellation"
+msgstr "星座"
+
+#: webapp/templates/webapp/circle/setting.html:276
+msgid "Normal"
+msgstr "普通"
+
+#: webapp/templates/webapp/circle/setting.html:281
+msgid "Display Battery"
+msgstr "显示电量"
+
+#: webapp/templates/webapp/circle/setting.html:286
+msgid "Display Second"
+msgstr "显示秒"
+
+#: webapp/templates/webapp/circle/setting.html:296
+#: webapp/templates/webapp/treasurebox/setting.html:198
+msgid "Health Data"
+msgstr "健康数据"
+
+#: webapp/templates/webapp/circle/setting.html:296
+#: webapp/templates/webapp/treasurebox/setting.html:198
+msgid "Choose Two"
+msgstr "任选两个"
+
+#: webapp/templates/webapp/circle/setting.html:301
+#: webapp/templates/webapp/treasurebox/setting.html:203
+msgid "Steps"
+msgstr "运动步数"
+
+#: webapp/templates/webapp/circle/setting.html:306
+#: webapp/templates/webapp/treasurebox/setting.html:208
+msgid "Calories"
+msgstr "消耗能量(卡路里)"
+
+#: webapp/templates/webapp/circle/setting.html:311
+#: webapp/templates/webapp/treasurebox/setting.html:213
+msgid "Active Time"
+msgstr "运动耗时"
+
+#: webapp/templates/webapp/circle/setting.html:316
+#: webapp/templates/webapp/treasurebox/setting.html:218
+msgid "Distance(km)"
+msgstr "运动距离(公里)"
+
+#: webapp/templates/webapp/circle/setting.html:321
+#: webapp/templates/webapp/treasurebox/setting.html:223
+msgid "Sleep Time"
+msgstr "睡眠时间"
+
+#: webapp/templates/webapp/circle/setting.html:326
+#: webapp/templates/webapp/treasurebox/setting.html:228
+msgid "Deep Sleep Time"
+msgstr "深睡时间"
+
+#: webapp/templates/webapp/circle/setting.html:360
+#: webapp/templates/webapp/treasurebox/setting.html:262
+msgid "Save"
+msgstr "保存"
+
+#: webapp/templates/webapp/circle/setting.html:367
+#: webapp/templates/webapp/treasurebox/setting.html:269
+msgid "pebblefan.com"
+msgstr "卵石坊"
+
+#: webapp/templates/webapp/circle/setting.html:369
+#: webapp/templates/webapp/treasurebox/setting.html:271
+msgid "WeChat"
+msgstr "微信号"
+
+#: webapp/templates/webapp/treasurebox/setting.html:72
+msgid "Switch to Black/White"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:79
+msgid "Black/White"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:80
+msgid "White/Black"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:81
+msgid "Black Have Line"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:82
+msgid "White Have Line"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:83
+msgid "Black No Line"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:84
+msgid "White No Line"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:151
+msgid "Information window setting"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:154
+#, fuzzy
+#| msgid "Timing Vibrate"
+msgid "Timing"
+msgstr "定时提醒"
+
+#: webapp/templates/webapp/treasurebox/setting.html:158
+#: webapp/templates/webapp/treasurebox/setting.html:182
+msgid "Note"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:162
+msgid "Date(Start/End)"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:167
+msgid "Time(Start/End)"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:172
+msgid "Method"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:174
+msgid "Years Months Days"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:175
+#, fuzzy
+#| msgid "24 Hours"
+msgid "Days Hours"
+msgstr "24小时制"
+
+#: webapp/templates/webapp/treasurebox/setting.html:176
+msgid "Days Hours Minutes"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:177
+msgid "Days Hours Minutes Seconds"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:186
+msgid "Note 1"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:189
+msgid "Note 2"
+msgstr ""
+
+#~ msgid "Galaxy Stone WatchFace"
+#~ msgstr "银河石表盘！"
+
+#~ msgid "BW support First Two"
+#~ msgstr "黑白表支持前两个"

@@ -1,0 +1,416 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-09 18:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: webapp/templates/webapp/circle/expired.html:10
+#: webapp/templates/webapp/circle/paypal_success.html:10
+#: webapp/templates/webapp/treasurebox/expired.html:10
+msgid "pay watchface"
+msgstr ""
+
+#: webapp/templates/webapp/circle/expired.html:30
+#: webapp/templates/webapp/circle/paypal_success.html:30
+#: webapp/templates/webapp/treasurebox/expired.html:30
+msgid "Loading"
+msgstr "Cargando"
+
+#: webapp/templates/webapp/circle/setting.html:33
+msgid "health_alert_text1"
+msgstr "Por favor, seleccione dos valores para mostrar la salud"
+
+#: webapp/templates/webapp/circle/setting.html:34
+msgid "health_alert_text2"
+msgstr "Sólo se pueden seleccionar dos valores de salud para mostrar"
+
+#: webapp/templates/webapp/circle/setting.html:42
+#: webapp/templates/webapp/treasurebox/setting.html:23
+msgid "Common Settings"
+msgstr "Configuración Habitual"
+
+#: webapp/templates/webapp/circle/setting.html:42
+#: webapp/templates/webapp/treasurebox/setting.html:23
+msgid "Version"
+msgstr "Ver"
+
+#: webapp/templates/webapp/circle/setting.html:45
+#: webapp/templates/webapp/treasurebox/setting.html:27
+msgid "Language"
+msgstr "Idioma"
+
+#: webapp/templates/webapp/circle/setting.html:58
+#: webapp/templates/webapp/treasurebox/setting.html:39
+msgid "Weather Provider"
+msgstr "Estación meteorológica"
+
+#: webapp/templates/webapp/circle/setting.html:60
+#: webapp/templates/webapp/treasurebox/setting.html:41
+msgid "Yahoo! Weather"
+msgstr "Yahoo! Clima"
+
+#: webapp/templates/webapp/circle/setting.html:61
+#: webapp/templates/webapp/treasurebox/setting.html:42
+msgid "OpenWeatherMap"
+msgstr ""
+
+#: webapp/templates/webapp/circle/setting.html:62
+msgid "China Weather"
+msgstr "China Clima"
+
+#: webapp/templates/webapp/circle/setting.html:67
+#: webapp/templates/webapp/treasurebox/setting.html:47
+msgid "Temperature Unit"
+msgstr "Unidad de temperatura"
+
+#: webapp/templates/webapp/circle/setting.html:69
+#: webapp/templates/webapp/treasurebox/setting.html:49
+msgid "Fahrenheit"
+msgstr ""
+
+#: webapp/templates/webapp/circle/setting.html:70
+#: webapp/templates/webapp/treasurebox/setting.html:50
+msgid "Celsius"
+msgstr ""
+
+#: webapp/templates/webapp/circle/setting.html:77
+#: webapp/templates/webapp/treasurebox/setting.html:56
+msgid "station en notice tips"
+msgstr ""
+"No quiero GPS de posicionamiento automático, por favor, introduzca el nombre "
+"de la ciudad Inglés (por ejemplo: Newyork), de lo contrario mantener en "
+"blanco"
+
+#: webapp/templates/webapp/circle/setting.html:78
+msgid "station cn notice tips"
+msgstr ""
+
+#: webapp/templates/webapp/circle/setting.html:81
+#: webapp/templates/webapp/treasurebox/setting.html:60
+msgid "input city name"
+msgstr "Introduzca su nombre de la ciudad"
+
+#: webapp/templates/webapp/circle/setting.html:97
+#: webapp/templates/webapp/treasurebox/setting.html:77
+#: webapp/templates/webapp/treasurebox/setting.html:89
+msgid "Color Style"
+msgstr "Estilo de color"
+
+#: webapp/templates/webapp/circle/setting.html:102
+msgid "Background"
+msgstr "Fondo"
+
+#: webapp/templates/webapp/circle/setting.html:107
+msgid "Hour Background"
+msgstr "Horas de la pelota"
+
+#: webapp/templates/webapp/circle/setting.html:112
+msgid "Hour Text"
+msgstr "Texto horas"
+
+#: webapp/templates/webapp/circle/setting.html:117
+msgid "Minute Background"
+msgstr "minutos de la bola"
+
+#: webapp/templates/webapp/circle/setting.html:122
+msgid "Minute Text"
+msgstr "minutos texto"
+
+#: webapp/templates/webapp/circle/setting.html:127
+msgid "Seconds Background"
+msgstr "segundos de la bola"
+
+#: webapp/templates/webapp/circle/setting.html:132
+msgid "Circle"
+msgstr "Circulo"
+
+#: webapp/templates/webapp/circle/setting.html:137
+msgid "Other Text"
+msgstr "otro texto"
+
+#: webapp/templates/webapp/circle/setting.html:142
+msgid "Battery"
+msgstr "Batería"
+
+#: webapp/templates/webapp/circle/setting.html:149
+#: webapp/templates/webapp/treasurebox/setting.html:94
+msgid "BT Disconnect Vibration"
+msgstr "BT desconexión de la vibración"
+
+#: webapp/templates/webapp/circle/setting.html:154
+#: webapp/templates/webapp/treasurebox/setting.html:99
+msgid "Show Weather on Shake"
+msgstr "Mostrar 3 días Tiempo"
+
+#: webapp/templates/webapp/circle/setting.html:159
+#: webapp/templates/webapp/treasurebox/setting.html:104
+msgid "Shake Sensitivity"
+msgstr "Sensibilidad"
+
+#: webapp/templates/webapp/circle/setting.html:161
+#: webapp/templates/webapp/treasurebox/setting.html:106
+msgid "High"
+msgstr "Alto"
+
+#: webapp/templates/webapp/circle/setting.html:162
+#: webapp/templates/webapp/treasurebox/setting.html:107
+msgid "Medium"
+msgstr "Medio"
+
+#: webapp/templates/webapp/circle/setting.html:163
+#: webapp/templates/webapp/treasurebox/setting.html:108
+msgid "Low"
+msgstr "Bajo"
+
+#: webapp/templates/webapp/circle/setting.html:164
+#: webapp/templates/webapp/treasurebox/setting.html:109
+msgid "Very Low"
+msgstr "Muy bajo"
+
+#: webapp/templates/webapp/circle/setting.html:169
+#: webapp/templates/webapp/treasurebox/setting.html:114
+msgid "24 Hours"
+msgstr "24 horas"
+
+#: webapp/templates/webapp/circle/setting.html:174
+#: webapp/templates/webapp/treasurebox/setting.html:119
+msgid "Timing Vibrate"
+msgstr "vibración de temporización"
+
+#: webapp/templates/webapp/circle/setting.html:176
+#: webapp/templates/webapp/treasurebox/setting.html:121
+msgid "No Vibrate"
+msgstr "sin vibración"
+
+#: webapp/templates/webapp/circle/setting.html:177
+#: webapp/templates/webapp/treasurebox/setting.html:122
+msgid "30 Minutes"
+msgstr "30 minutos"
+
+#: webapp/templates/webapp/circle/setting.html:178
+#: webapp/templates/webapp/treasurebox/setting.html:123
+msgid "40 Minutes"
+msgstr "40 minutos"
+
+#: webapp/templates/webapp/circle/setting.html:179
+#: webapp/templates/webapp/treasurebox/setting.html:124
+msgid "45 Minutes"
+msgstr "45 minutos"
+
+#: webapp/templates/webapp/circle/setting.html:180
+#: webapp/templates/webapp/treasurebox/setting.html:125
+msgid "1 Hour"
+msgstr "1 hora"
+
+#: webapp/templates/webapp/circle/setting.html:184
+#: webapp/templates/webapp/treasurebox/setting.html:129
+msgid "No vibrate time"
+msgstr "No hay tiempo de vibración"
+
+#: webapp/templates/webapp/circle/setting.html:188
+#: webapp/templates/webapp/treasurebox/setting.html:133
+msgid "Start time"
+msgstr "Hora de inicio"
+
+#: webapp/templates/webapp/circle/setting.html:191
+#: webapp/templates/webapp/circle/setting.html:199
+#: webapp/templates/webapp/treasurebox/setting.html:136
+#: webapp/templates/webapp/treasurebox/setting.html:144
+msgid "o'clock"
+msgstr "en punto"
+
+#: webapp/templates/webapp/circle/setting.html:196
+#: webapp/templates/webapp/treasurebox/setting.html:141
+msgid "End time"
+msgstr "Hora de finalización"
+
+#: webapp/templates/webapp/circle/setting.html:206
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: webapp/templates/webapp/circle/setting.html:248
+msgid "Display Temperature"
+msgstr "visualización de la temperatura"
+
+#: webapp/templates/webapp/circle/setting.html:253
+#: webapp/templates/webapp/treasurebox/setting.html:193
+msgid "Display Today Weather"
+msgstr "El tiempo hoy"
+
+#: webapp/templates/webapp/circle/setting.html:258
+msgid "Display Air Quality"
+msgstr "Mostrar Calidad del Aire"
+
+#: webapp/templates/webapp/circle/setting.html:263
+msgid "Display Day"
+msgstr "Fecha de"
+
+#: webapp/templates/webapp/circle/setting.html:268
+msgid "Display Bluetooth"
+msgstr "Bluetooth"
+
+#: webapp/templates/webapp/circle/setting.html:273
+msgid "Bluetooth Icon"
+msgstr "icono de Bluetooth"
+
+#: webapp/templates/webapp/circle/setting.html:275
+msgid "Constellation"
+msgstr "Constelación"
+
+#: webapp/templates/webapp/circle/setting.html:276
+msgid "Normal"
+msgstr "Normal"
+
+#: webapp/templates/webapp/circle/setting.html:281
+msgid "Display Battery"
+msgstr "la cantidad de electricidad"
+
+#: webapp/templates/webapp/circle/setting.html:286
+msgid "Display Second"
+msgstr "Segundos"
+
+#: webapp/templates/webapp/circle/setting.html:296
+#: webapp/templates/webapp/treasurebox/setting.html:198
+msgid "Health Data"
+msgstr "Salud"
+
+#: webapp/templates/webapp/circle/setting.html:296
+#: webapp/templates/webapp/treasurebox/setting.html:198
+msgid "Choose Two"
+msgstr "Escoge dos"
+
+#: webapp/templates/webapp/circle/setting.html:301
+#: webapp/templates/webapp/treasurebox/setting.html:203
+msgid "Steps"
+msgstr "Pasos"
+
+#: webapp/templates/webapp/circle/setting.html:306
+#: webapp/templates/webapp/treasurebox/setting.html:208
+msgid "Calories"
+msgstr "Calorías"
+
+#: webapp/templates/webapp/circle/setting.html:311
+#: webapp/templates/webapp/treasurebox/setting.html:213
+msgid "Active Time"
+msgstr "Tiempo de actividad"
+
+#: webapp/templates/webapp/circle/setting.html:316
+#: webapp/templates/webapp/treasurebox/setting.html:218
+msgid "Distance(km)"
+msgstr "Distancia(km)"
+
+#: webapp/templates/webapp/circle/setting.html:321
+#: webapp/templates/webapp/treasurebox/setting.html:223
+msgid "Sleep Time"
+msgstr "Hora de dormir"
+
+#: webapp/templates/webapp/circle/setting.html:326
+#: webapp/templates/webapp/treasurebox/setting.html:228
+msgid "Deep Sleep Time"
+msgstr "Profundo Tiempo en reposo"
+
+#: webapp/templates/webapp/circle/setting.html:360
+#: webapp/templates/webapp/treasurebox/setting.html:262
+msgid "Save"
+msgstr "OK"
+
+#: webapp/templates/webapp/circle/setting.html:367
+#: webapp/templates/webapp/treasurebox/setting.html:269
+msgid "pebblefan.com"
+msgstr ""
+
+#: webapp/templates/webapp/circle/setting.html:369
+#: webapp/templates/webapp/treasurebox/setting.html:271
+msgid "WeChat"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:72
+msgid "Switch to Black/White"
+msgstr "Negro/Blanco"
+
+#: webapp/templates/webapp/treasurebox/setting.html:79
+msgid "Black/White"
+msgstr "Negro/Blanco"
+
+#: webapp/templates/webapp/treasurebox/setting.html:80
+msgid "White/Black"
+msgstr "Blanco/Negro"
+
+#: webapp/templates/webapp/treasurebox/setting.html:81
+msgid "Black Have Line"
+msgstr "Negro/Línea"
+
+#: webapp/templates/webapp/treasurebox/setting.html:82
+msgid "White Have Line"
+msgstr "Blanco/Línea"
+
+#: webapp/templates/webapp/treasurebox/setting.html:83
+msgid "Black No Line"
+msgstr "Negro"
+
+#: webapp/templates/webapp/treasurebox/setting.html:84
+msgid "White No Line"
+msgstr "Blanco"
+
+#: webapp/templates/webapp/treasurebox/setting.html:151
+msgid "Information window setting"
+msgstr ""
+
+#: webapp/templates/webapp/treasurebox/setting.html:154
+msgid "Timing"
+msgstr "Sincronización"
+
+#: webapp/templates/webapp/treasurebox/setting.html:158
+#: webapp/templates/webapp/treasurebox/setting.html:182
+msgid "Note"
+msgstr "Nota"
+
+#: webapp/templates/webapp/treasurebox/setting.html:162
+msgid "Date(Start/End)"
+msgstr "Fecha (inicio / fin)"
+
+#: webapp/templates/webapp/treasurebox/setting.html:167
+msgid "Time(Start/End)"
+msgstr "Hora (inicio / fin)"
+
+#: webapp/templates/webapp/treasurebox/setting.html:172
+msgid "Method"
+msgstr "Método"
+
+#: webapp/templates/webapp/treasurebox/setting.html:174
+msgid "Years Months Days"
+msgstr "año mes dia"
+
+#: webapp/templates/webapp/treasurebox/setting.html:175
+msgid "Days Hours"
+msgstr "dia hora"
+
+#: webapp/templates/webapp/treasurebox/setting.html:176
+msgid "Days Hours Minutes"
+msgstr "dia hora minuto"
+
+#: webapp/templates/webapp/treasurebox/setting.html:177
+msgid "Days Hours Minutes Seconds"
+msgstr "dia hora minuto segundos"
+
+#: webapp/templates/webapp/treasurebox/setting.html:186
+msgid "Note 1"
+msgstr "Nota 1"
+
+#: webapp/templates/webapp/treasurebox/setting.html:189
+msgid "Note 2"
+msgstr "Nota 2"

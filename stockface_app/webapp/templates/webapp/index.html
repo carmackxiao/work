@@ -1,0 +1,40 @@
+{% load staticfiles %}
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="{% static 'webapp/css/slate.css' %}" />
+<script type="text/javascript" src="{% static 'webapp/js/slate.js' %}?t=1"></script>
+</head>
+<body>
+
+<div class="item-container">
+  <div class="item-container-header">Pebble中国股票</div>
+  <div class="item-container-content">
+    <div class="item">
+    你的Pebble编码: <span id="watchid">{{watchid}}</span>
+    </div>
+    <div class="item">
+    请输入股票代码,例如:300431
+    </div>
+      <div class="item-input-wrapper">
+        <input type="text" class="item-input" id="stock_code1" name="stock_code1" placeholder="输入第一只股票代码" value="{{stock_code1}}">
+      </div>
+      <div class="item-input-wrapper">
+        <input type="text" class="item-input" id="stock_code2" name="stock_code2" placeholder="输入第二只股票代码" value="{{stock_code2}}">
+      </div>
+      <div class="item-input-wrapper">
+        <input type="text" class="item-input" id="stock_code3" name="stock_code3" placeholder="输入第三只股票代码" value="{{stock_code3}}">
+      </div>
+		<div class="item-container">
+		  <div class="button-container">
+		    <input type="button" class="item-button" id="submit_button" value="保存">
+		  </div>
+		</div>
+  </div>
+  <div class="item-container-footer">
+    Developed by Pebble中国, 微信号:<a href="weixin://contacts/profile/gh_ec6585b08e39">pebblecn</a>
+  </div>
+</div>
+<script type="text/javascript" src="{% static 'webapp/js/webapp.js' %}?t=201511141503"></script>
+</body>
+</html>
